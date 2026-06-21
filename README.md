@@ -1,2 +1,14 @@
 # 500choice-notes
-HTML page archive and documentation
+
+自动页面托管记录
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
